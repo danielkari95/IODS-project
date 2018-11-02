@@ -1,5 +1,5 @@
 
-# About the project
+# About the course and the universe
 
 
 The course *Introduction to Open Data Science* builds on **three fundamental principles**:  
